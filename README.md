@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Mysql ,Spring Boot, Hibernate,aws**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://voluble-mochi-19bd33.netlify.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://harmonious-muffin-8120b1.netlify.app/)
 
 - 📫 How to reach me **fk0786460@gmail.com**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/faizan-khan-a62b9122b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/faizan-khan-a62b9122b/" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/faizan-khan-a62b9122b/](https://www.linkedin.com/in/faizan-khan-a62b9122b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/faizan-khan-a62b9122b/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
